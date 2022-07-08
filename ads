@@ -1,7 +1,7 @@
 	
 Playstore	
 AdsController	
-NetworkAds	"unity"
+NetworkAds	"admob"
 BannerAdmob	"ca-app-pub-8082149907872048/3898325980"
 InterstitialAdmob	"ca-app-pub-8082149907872048/8781442418"
 BannerFacebook	"1347348165628536_1347349145628438"
